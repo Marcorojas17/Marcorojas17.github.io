@@ -1,0 +1,6 @@
+1  User-agent: GPTBot
+2  Disallow: /
+3  
+4  User-agent: ChatGPT-User
+5  Disallow: /
+6  ... etc
